@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ocean.mk
+    $(LOCAL_DIR)/viper_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ocean-eng \
-    lineage_ocean-user \
-    lineage_ocean-userdebug
+    vpier_ocean-eng \
+    viper_ocean-user \
+    viper_ocean-userdebug
